@@ -49,3 +49,8 @@ Starting from minimal starter code, this challenge required writing additional c
 ## Link to Project & Screenshot
 ![README Generator Screenshot)](/Develop/assets/images/applicationImage.png)
 [Click here to view the project!](https://rpodols.github.io/readme-generator/)
+
+## Walkthrough Video
+* 2 part video walkthrough to show full capabilities of app along with example README it generates:
+    - Part 1: https://drive.google.com/file/d/1epScxXd6xj_4WaWB1mgmVP5vS7tcj91e/view
+    - Part 2: https://drive.google.com/file/d/1PPIv1eAbCcociEYYZYhy6ls7UssM9RWz/view

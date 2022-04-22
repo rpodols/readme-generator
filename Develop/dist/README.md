@@ -1,7 +1,7 @@
-# asdasdf ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+# Example README title ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
-asdfasdfsad
+This is the short description for this project, much was solved and much was learned.
 
 ## Table of Contents
 - [Description](#description)
@@ -13,16 +13,16 @@ asdfasdfsad
 - [Questions](#questions)
 
 ## Installation
-sadfasdfasdf
+These are the steps to install the project.
 
 ## Usage
-asdfasdfsadf
+No examples at this time.  This project can be used to automatically create a README.md file, rather than having to manually create one each time.
 
 ## Contributing
-asdfasfasdf
+No outside contributions at this time.
 
 ## Tests
-asdfasdf
+To test this application, once installed, enter generic answers, and once finished running the application, view the README to see the generic answers populate on it.
 
 ## License
 MIT License
@@ -32,9 +32,9 @@ MIT License
 ## Questions
 Have any questions? 
 
-Feel free to reach out via email to: asdfasdf
+Feel free to reach out via email to: rdpodols@gmai.lcom
 
-For more information and other projects by this author, visit GitHub: [asdfasdf](https://github.com/asdfasdf)
+For more information and other projects by this author, visit GitHub: [rpodols](https://github.com/rpodols)
 
           
 
