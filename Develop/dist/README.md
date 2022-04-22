@@ -1,7 +1,7 @@
-# test again ![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
+# README TITLE Example ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
-lkasdjfklasdjf
+This is the description area of the README
 
 ## Table of Contents
 - [Description](#description)
@@ -13,28 +13,28 @@ lkasdjfklasdjf
 - [Questions](#questions)
 
 ## Installation
-lkajsdlkfjasd
+Here are the steps to install this project
 
 ## Usage
-flkjasdlkfjaslkdfj
+Here are the usage instructions along with an example
 
 ## Contributing
-aslkjasdfhuherf
+Please follow these instructions to contribute to this project
 
 ## Tests
-iuheiuvghueirf
+There are no tests
 
 ## License
-Apache License 2.0
+MIT License
 
-[Click here for more license info!](https://choosealicense.com/licenses/apache-2.0/)
+[Click here for more license info!](https://choosealicense.com/licenses/mit/)
 
 ## Questions
 Have any questions? 
 
-Feel free to reach out via email to: stockboy@gmail.com
+Feel free to reach out via email to: email@gmail.com
 
-For more information and other projects by this author, visit: [khjwefijwerf](https://github.com/khjwefijwerf)
+For more information and other projects by this author, visit GitHub: [GitHub username](https://github.com/GitHub username)
 
           
 
